@@ -1,0 +1,32 @@
+<!--
+  Copyright 2021 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      https://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+  <string name="preferences_menu_title" translatable="false">Preferences</string>
+  <string name="preferences_screen_title" translatable="false">Preferences</string>
+  <string name="theme_preference_description" translatable="false">Theme</string>
+  <string name="theme_preference_option_light" translatable="false">Light</string>
+  <string name="theme_preference_option_dark" translatable="false">Dark</string>
+  <string name="theme_preference_option_system_default" translatable="false">System default</string>
+  <string name="shape_corner_family_preference_description" translatable="false">Shape Corner Family</string>
+  <string name="shape_corner_family_preference_option_rounded" translatable="false">Rounded</string>
+  <string name="shape_corner_family_preference_option_cut" translatable="false">Cut</string>
+  <string name="shape_corner_family_preference_option_default" translatable="false">Default</string>
+  <string name="shape_corner_size_preference_description" translatable="false">Shape Corner Size</string>
+  <string name="shape_corner_size_preference_option_small" translatable="false">Small</string>
+  <string name="shape_corner_size_preference_option_medium" translatable="false">Medium</string>
+  <string name="shape_corner_size_preference_option_large" translatable="false">Large</string>
+  <string name="shape_corner_size_preference_option_default" translatable="false">Default</string>
+</resources>
